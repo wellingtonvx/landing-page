@@ -1,0 +1,43 @@
+.section-grid{
+  padding: 40px 2%;
+  text-align: center;
+  color: #462663;
+}
+
+.section-grid h2{
+  font-weight: normal;
+}
+
+.container-grid{
+  margin-top: 40px;
+  text-align: center;
+}
+
+.single{
+  float: left;
+  width: 33.333%;
+  padding:30px;
+}
+
+.single img{
+  width: 70px;
+}
+
+.single p {
+  padding: 15px 25px;
+  text-align: justify;
+}
+
+footer {
+  clear: both;
+  padding: 20px 0;
+  border-top: 4px solid  rgba(120,120,120, 0.5);
+
+  text-align: center;
+
+  color: #888
+}
+
+footer p{
+  margin-top: 8px;
+}
